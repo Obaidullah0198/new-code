@@ -1,6 +1,3 @@
-# new-code
-HTML
-
 import java.util.*;
 public class Main
 {
